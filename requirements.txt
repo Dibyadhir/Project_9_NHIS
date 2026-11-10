@@ -1,0 +1,6 @@
+langchain-core==1.7.6
+langchain-google-genai==4.4.3
+newsapi-python==0.2.7
+streamlit==1.67.0
+python-dotenv==1.2.4
+requests==2.34.2
